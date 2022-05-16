@@ -1,0 +1,15 @@
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.csproj.AssemblyReference.cache
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.AssemblyInfoInputs.cache
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.AssemblyInfo.cs
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\bin\Debug\net6.0\projetoRPG.exe
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\bin\Debug\net6.0\projetoRPG.deps.json
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\bin\Debug\net6.0\projetoRPG.runtimeconfig.json
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\bin\Debug\net6.0\projetoRPG.dll
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\bin\Debug\net6.0\ref\projetoRPG.dll
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\bin\Debug\net6.0\projetoRPG.pdb
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.dll
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\ref\projetoRPG.dll
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.pdb
+C:\Users\Robson\Desktop\CSharp\projetoRPG\projetoRPG\obj\Debug\net6.0\projetoRPG.genruntimeconfig.cache
